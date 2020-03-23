@@ -6,4 +6,4 @@ categories: documents
 
 **Documents disponibles**
 
-[SES partie 1](/SES_1.pdf)
+[SES partie 1](/documents/SES_1.pdf)
