@@ -9,5 +9,5 @@ categories: devoirs
 Il s'agit de ce que vous devez faire comme si vous étiez en classe. Du coup, il n'y a pas de devoirs pour la prochaine fois.  
 Pour cette 1ère partie, 3 ou 4 heures de travail sont nécessaires. Nous allons donc décomposer le travail en 3 fois une heure (soit sur 2 semaines)  
 Pour la 1ère séance (aujourd'hui) : Regarder la vidéo et répondre aux questions (dossier et vidéo en pièces jointes).  
-[Lien Youtube](https://www.youtube.com/watch?v=PnArmtHPPAI)
+[Lien Youtube](https://www.youtube.com/watch?v=PnArmtHPPAI)  
 [Lien document](../documents/SES_1.pdf)
