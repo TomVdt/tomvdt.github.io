@@ -10,3 +10,5 @@ url: ""
 theme: minima
 plugins:
   - jekyll-feed
+
+# Modify line to update index.html thx
