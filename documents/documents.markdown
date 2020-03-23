@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "documents"
+title:  "Documents"
 categories: documents
 ---
 
-** Documents disponibles **
+**Documents disponibles**
 
 [SES partie 1](/SES_1.pdf)
