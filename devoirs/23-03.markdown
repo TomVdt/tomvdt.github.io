@@ -5,7 +5,6 @@ categories: devoirs
 ---
 
 # Allemand  
-- [ ]
 
 Faire la page 110 et rendre sur l'ENT ou par mail
 
