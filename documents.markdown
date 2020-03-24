@@ -13,3 +13,5 @@ categories: documents
 [PC cours 1](/documents/PC_1)
 
 [PC cours 2](/documents/PC_2)
+
+[PC Fiche Exos 1](/documents/PC_exos1)
