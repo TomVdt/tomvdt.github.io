@@ -10,8 +10,8 @@ categories: documents
 
 [SVT cours 1](/documents/SVT_1.pdf)
 
-[PC cours 1](/documents/PC_1)
+[PC cours 1](/documents/PC_1.pdf)
 
-[PC cours 2](/documents/PC_2)
+[PC cours 2](/documents/PC_2.pdf)
 
-[PC Fiche Exos 1](/documents/PC_exos1)
+[PC Fiche Exos 1](/documents/PC_exos1.pdf)
