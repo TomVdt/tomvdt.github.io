@@ -7,8 +7,6 @@ layout: home
 
 **Choses à faire**
 
-[Devoirs 23/03](/devoirs/23-03)
-
 [Devoirs 24/03](/devoirs/24-03)
 
 [Devoirs 25/03](/devoirs/25-03)
