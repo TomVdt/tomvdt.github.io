@@ -16,6 +16,10 @@ Réponses au TP2 Méthode 1 p 279 Méthode 1 (voir séance du mercredi 25 mars)
 
 Rendre sur l'ENT
 
+Faire l'[activité](../documents/MATHS_act1.pdf){:target="\_blank"} + [fichier GeoGebra](../documents/MATHS_act1.ggb){:target="\_blank"} (pas nécessaire)
+
+Recopier [cours](../documents/MATHS_cours1.pdf){:target="\_blank"} nouveau chapitre
+
 # Français
 
 8 – Quelle est la figure de style dominante ? Justifiez.

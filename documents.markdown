@@ -17,3 +17,9 @@ categories: documents
 [PC Fiche Exos 1](/documents/PC_exos1.pdf){:target="\_blank"}
 
 [FR texte Nothomb 1](/document/FR_txt1.pdf){:target="\_blank"}
+
+[Maths activité 1 chap 9](../documents/MATHS_act1.pdf){:target="\_blank"}
+
+[Maths activité 1 GeoGebra chap 9](../documents/MATHS_act1.ggb){:target="\_blank"}
+
+[Maths cours 1 chap 9](../documents/MATHS_cours1.pdf){:target="\_blank"}
