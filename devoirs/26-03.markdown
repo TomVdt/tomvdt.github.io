@@ -34,10 +34,10 @@ Pour les devoirs à faire pour cette séance, il me manque les devoirs de certai
 
 Voici le programme de la séance d’aujourd’hui :
 
-    1. Voir les corrigés des exercices donnés mardi :  ex 20 + ex 1 et 2 de la fiche.
-    1. Exercices : **3, 4 et 6 de la fiche** (A rendre via le travail à faire avec remise !!!)
-    1. Télécharger la fiche d'autoévaluation du chapitre.  
-    1. Si vous avez des questions sur ce chapitre, n’hésitez pas à me les poser via la messagerie de l’ENT.
+1. Voir les corrigés des exercices donnés mardi :  ex 20 + ex 1 et 2 de la fiche.
+1. Exercices : **3, 4 et 6 de la fiche** (A rendre via le travail à faire avec remise !!!)
+1. Télécharger la fiche d'autoévaluation du chapitre.  
+1. Si vous avez des questions sur ce chapitre, n’hésitez pas à me les poser via la messagerie de l’ENT.
 
 [Fiche exercices](../documents/PC_exos1.pdf){:target="\_blank"}
 
