@@ -20,6 +20,43 @@ Faire l'[activité](../documents/MATHS_act1.pdf){:target="\_blank"} + [fichier G
 
 Recopier [cours](../documents/MATHS_cours1.pdf){:target="\_blank"} nouveau chapitre
 
+Petit tuto Python si vous n'y comprenez rien:
+
+```
+from math import sqrt
+
+def CalculSerie():
+    # Calcul de la moyenne de la série
+    m = (13+26+28+17+35+15+27+37+8+10+5+20+19+13+45+27+12+4+8+31)/20
+    # Calcul de l'écart-type de la série
+    s = sqrt(((13-m)**2+(26-m)**2+(28-m)**2+(17-m)**2+(35-m)**2+(15-m)**2+(27-m)**2+
+        	(37-m)**2+(8-m)**2+(10-m)**2+(5-m)**2+(20-m)**2+(19-m)**2+(13-m)**2+
+            (45-m)**2+(27-m)**2+(12-m)**2+(4-m)**2+(8-m)**2+(31-m)**2) /20)
+    # Retourne les valeurs
+    return m,s
+
+def Intervalle():
+    # m est la moyenne, s l'écart-type
+    m, s = CalculSerie()
+    # On initialise le nombre de valeurs qui remplissent la condition à 0
+    k = 0
+    # On répète pour toutes les valeurs de la série
+    for i in range(20):
+        # On demande les valeurs de la série 1 par 1
+        x = float(input("Valeur "+str(i+1)+" de la série :"))
+        # On regarde si les valeurs de la série vérifient la condition
+        if x >= m-(2*s) and x <= m+(2*s):
+            # Si la condition est vraie, on incrémente le compteur
+            k = k + 1
+    # On calcule le % des valeurs qui remplissent la condition
+    p = k/20*100
+    # On retourne ce pourcentage
+    return p
+
+# On "imprime" le pourcentage de valeurs qui remplissent la condition
+print(Intervalle(), "%")
+```
+
 # Français
 
 8 – Quelle est la figure de style dominante ? Justifiez.
