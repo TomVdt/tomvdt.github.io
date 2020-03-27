@@ -12,6 +12,8 @@ categories: documents
 
 [SVT cours 1](/documents/SVT_1.pdf){:target="\_blank"}
 
+[SVT activité 4](/document/SVT_act4.pdf){:target="\_blank"}
+
 # Physique-Chimie
 
 [PC cours 1](/documents/PC_1.pdf){:target="\_blank"}
