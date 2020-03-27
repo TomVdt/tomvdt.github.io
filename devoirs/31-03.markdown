@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Devoirs 31-03"
+categories: devoirs
+---
+
+# SVT
+
+Revoir le cours
+
+# Chimie
+
+Faire les *exos 3, 4 et 6* de la [fiche](../documents/PC_exos1.pdf){:target="\_blank"} et rendre sur l'ENT
