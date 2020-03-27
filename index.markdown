@@ -7,4 +7,6 @@ layout: home
 
 **Choses à faire**
 
-[Devoirs 27/03](/devoirs/27-03)
+[Devoirs 30/03](/devoirs/30-03)
+
+[Devoirs 31/03](/devoirs/31-03)
