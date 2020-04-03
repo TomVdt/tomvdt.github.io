@@ -5,8 +5,4 @@
 layout: home
 ---
 
-**Choses à faire**
-
-[Devoirs 30/03](/devoirs/30-03)
-
-[Devoirs 31/03](/devoirs/31-03)
+This is my website, I guess...
